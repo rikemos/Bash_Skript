@@ -1,3 +1,5 @@
 # Mein erstes Git Repositorium
-- Author: Friederike Mosig
+## Meine Bash-Skripte
+
+- Author: **Friederike Mosig**
 
